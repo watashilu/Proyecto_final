@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\KillPlayer.cs">
+    <Files>
+      <File FileName="Assets\script\ballController.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\explosionController.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\AnimController.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\speedController.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\cameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\playerHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\enemigos.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\MainMenu.cs" Line="29" Column="28" />
+      <File FileName="Assets\script\PauseMenu.cs" Line="49" Column="33" />
+      <File FileName="Assets\script\KillPlayer.cs" Line="12" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
